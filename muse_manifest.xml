@@ -1,0 +1,79 @@
+<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="unocha.org" resolutions="1x" timestamp="1502796538201">
+  <folder name="css">
+    <file name="site_global.css" crc="4230136942"/>
+    <file name="index.css" crc="4249762846" ref="index"/>
+    <file name="iefonts_index.css" crc="151825621" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="humanitarian-webfont.woff" crc="3826200285"/>
+    <file name="humanitarian-webfont.eot" crc="521024841"/>
+    <file name="humanitarian-webfont.svg" crc="4292464275"/>
+  </folder>
+  <folder name="assets">
+    <file name="oct-dec_regional_outlook_pdf_doc_26oct2016.pdf" crc="4059589298" seo="true" mt="1487317163000"/>
+    <file name="jul-sep_regional_outlook_doc_22aug.pdf" crc="3981392162" seo="true" mt="1487317135000"/>
+    <file name="march_outlook_doc__pdf.pdf" crc="3832034570" seo="true" mt="1487317116000"/>
+    <file name="regional_outlook_document_10th_nov_pdf_version.pdf" crc="407961213" seo="true" mt="1487317780000"/>
+    <file name="loading.png" crc="335613149" seo="true" mt="1487322115000"/>
+    <file name="apr-june_regional_outlook_draft_doc_6july2017_pdf.pdf" crc="263372382" seo="true" mt="1501074470000"/>
+    <file name="jan-mar_regional_outlook_doc_24feb20172.pdf" crc="129279835" seo="true" mt="1501674871000"/>
+    <file name="jul-sep_regional_outlook_doc_pdf_final_22aug.pdf" crc="3981392162" seo="true" mt="1501675295000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index"/>
+    <file name="museutils.js" crc="3851988764" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4242129463" ref="index"/>
+    <file name="pie.js" crc="3831537696" ref="index"/>
+    <file name="webpro.js" crc="4067903014" ref="index"/>
+    <file name="musewpslideshow.js" crc="4265225696" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4075157096" ref="index"/>
+    <file name="touchswipe.js" crc="474750357" ref="index"/>
+    <file name="jquery.musemenu.js" crc="4150485998" ref="index"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="271560940" ref="index"/>
+    <file name="musewpdisclosure.js" crc="338211507" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="511146689" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="require.js" crc="4108833657" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="photo4.jpg" crc="4016733567" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="photo2.jpg" crc="504174436" seo="true" ref="index"/>
+    <file name="cover.jpg" crc="4159432867" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="un-ocha-logo_hor-blu660-block.jpg" crc="4018303546" seo="true" ref="index"/>
+    <file name="dotted_seperator.png" crc="4133232442" seo="true" ref="index"/>
+    <file name="disaster_drought_64px_icon.png" crc="3989452922" seo="true" ref="index"/>
+    <file name="1.jpg" crc="301845105" seo="true" ref="index"/>
+    <file name="2.jpg" crc="341649897" seo="true" ref="index"/>
+    <file name="3.jpg" crc="4196306967" seo="true" ref="index"/>
+    <file name="data not verified.jpg" crc="4093027260" seo="true" ref="index"/>
+    <file name="3099606339_0d3ba11c28_o.jpg" crc="137840190" ref="index"/>
+    <file name="ea_icpac_rainfall_outlook_jun_sep2017-r_ghoa_rainfall_outlook_jun-sep2017_icpac.jpg" crc="55458437" seo="true" ref="index"/>
+    <file name="rainfall-01.jpg" crc="191380172" seo="true" ref="index"/>
+    <file name="food_price_index.jpg" crc="4266800976" seo="true" ref="index"/>
+    <file name="refugees_trend_refugees trend- mar 2017.jpg" crc="3783863186" seo="true" ref="index"/>
+    <file name="mar_16.jpg" crc="71817152" seo="true" ref="index"/>
+    <file name="sep_16.jpg" crc="348510852" seo="true" ref="index"/>
+    <file name="jan_17.jpg" crc="58656869" seo="true" ref="index"/>
+    <file name="mar_17.jpg" crc="252212814" seo="true" ref="index"/>
+    <file name="july_2017_ref.jpg" crc="28856972" seo="true" ref="index"/>
+    <file name="food_insecurity_trends_graph-01.jpg" crc="467812646" seo="true" ref="index"/>
+    <file name="burundi.png" crc="375177319" seo="true" ref="index"/>
+    <file name="ethiopia.png" crc="3897693892" seo="true" ref="index"/>
+    <file name="kenya.png" crc="3882296195" seo="true" ref="index"/>
+    <file name="somalia.jpg" crc="9475892" seo="true" ref="index"/>
+    <file name="s_sudan.png" crc="136724654" seo="true" ref="index"/>
+    <file name="sudan.png" crc="17026019" seo="true" ref="index"/>
+    <file name="communicable diseases_hoa_gl_20jun 2017_hoa_communicable diseases_harsh_map_20june2017.jpg" crc="4151919757" seo="true" ref="index"/>
+    <file name="ea_funding_status-01.jpg" crc="118084601" seo="true" ref="index"/>
+    <file name="q4_pic.jpg" crc="202582011" ref="index"/>
+    <file name="outlook_2017.jpg" crc="3967403381" ref="index"/>
+    <file name="q2_pic.jpg" crc="4175636168" ref="index"/>
+    <file name="q3_pic.jpg" crc="339302801" ref="index"/>
+    <file name="cover-crop-u13384.jpg" crc="3835226873" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4267199354" seo="true" mt="1502796039439" redirect="true"/>
+</manifest>
